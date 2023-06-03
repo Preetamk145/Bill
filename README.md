@@ -7,12 +7,12 @@ billing process. Breeze Blows has three different type of rooms "Standard","Delu
 "Cottage".
 Resort does not allow accommodation more than 15 days.
 Room Fare is as :
-type of room fare
-Standard 2500
-Deluxe 3500
-Cottage 5500
+  type of room fare
+  Standard 2500
+  Deluxe 3500
+  Cottage 5500 
 Bill Components :-
-12% tax is applicable on total bill.
-Food charges is 800Rs per day.
-Extra person charges is 500Rs per person.
+  12% tax is applicable on total bill.
+  Food charges is 800Rs per day.
+  Extra person charges is 500Rs per person.
 
